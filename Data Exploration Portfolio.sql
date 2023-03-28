@@ -1,6 +1,7 @@
 
 --COVID-19 DATA EXPLORATION FROM LATE 2020 TO EARLY 2021
 --SKILLS USED: Aggregation Functions, CTEs, WINDOW FUNCTIONS, TEMP TABLES, DATA TYPES, JOINS, ARITHMETIC FUNCTIONS, VIEWS
+
 --select*
 --from ProjectPortfolio..CovidDeaths
 --order by 3,4
