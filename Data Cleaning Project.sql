@@ -2,6 +2,8 @@
 Cleaning Data in SQL Queries
 */
 
+------SKILLS USED: Case Statement, CTEs, Partition By, ISNULL, ParseName and Replace, Convert, SubString, Distinct, Row_Number
+
 Select *
 from ProjectPortfolio..NashvilleHousing
 
